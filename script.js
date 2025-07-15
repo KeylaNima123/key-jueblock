@@ -1,1 +1,0 @@
-// Aquí va tu código JS personalizado con colores y lógica
